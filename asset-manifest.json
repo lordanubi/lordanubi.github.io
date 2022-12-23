@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0adf04f.css",
-    "main.js": "/static/js/main.cfe0b077.js",
+    "main.css": "/static/css/main.c9daace3.css",
+    "main.js": "/static/js/main.f1eda545.js",
     "static/media/house-2.jpeg": "/static/media/house-2.fe0525b9ff60ebc458a4.jpeg",
     "static/media/house-4.jpeg": "/static/media/house-4.3da0706b8925b3346050.jpeg",
     "static/media/house-5.jpeg": "/static/media/house-5.15c849ab3930ad49fd32.jpeg",
@@ -35,11 +35,11 @@
     "static/media/logo-atlassian.svg": "/static/media/logo-atlassian.f2b0e8570a4b4ce768854ff3dad1a6e1.svg",
     "static/media/logo-asana.svg": "/static/media/logo-asana.d758f410d82760a61d1eabcb03409de6.svg",
     "index.html": "/index.html",
-    "main.d0adf04f.css.map": "/static/css/main.d0adf04f.css.map",
-    "main.cfe0b077.js.map": "/static/js/main.cfe0b077.js.map"
+    "main.c9daace3.css.map": "/static/css/main.c9daace3.css.map",
+    "main.f1eda545.js.map": "/static/js/main.f1eda545.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0adf04f.css",
-    "static/js/main.cfe0b077.js"
+    "static/css/main.c9daace3.css",
+    "static/js/main.f1eda545.js"
   ]
 }
